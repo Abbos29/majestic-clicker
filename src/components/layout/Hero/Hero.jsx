@@ -7,7 +7,7 @@ const Hero = () => {
       <div className="container">
         <div className={s.wrap}>
           <h2 className={s.sum}>
-            <img src="/public/sum-icon.png" alt="icon" />
+            <img src="/sum-icon.png" alt="icon" />
             <span>10533</span>
           </h2>
 
